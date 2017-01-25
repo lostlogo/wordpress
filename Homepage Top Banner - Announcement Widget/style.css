@@ -1,0 +1,43 @@
+.widget-column-notice {
+    position: relative;
+    display: block;
+height:40px;
+padding:15px 10px 10px 10px;
+background: red;
+color:white;
+font-size:15px;
+text-align:center;
+padding-top:0px;
+    width: 100%;
+    margin-right: 0;
+}
+
+
+.widget-column-notice:last-child { margin-right: 0; }
+.widget-column-notice .widget {
+    border: none;
+    padding: 0;
+    text-align: center;
+    background: inherit;
+}
+
+.widget-column-notice .button {
+    border: 2px solid #a1a1a1;
+    font-size: 17px;
+    padding-top: 1px;
+    color: black;
+    background: #fff;
+    text-transform: uppercase;
+    width: 120px;
+    height: 30px;
+    margin-top: 5px;
+    margin-left: 10px;
+    display: inline-block;
+    border-radius: 15px;
+
+}
+
+.widget-column-notice {
+      width: 100%;
+      margin-right: 0;
+  }

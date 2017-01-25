@@ -54,3 +54,16 @@ padding-top:15px;
     text-align: center;
     background: inherit;
 }
+
+.widget-column-home {
+      width: 100%;
+      margin-right: 0;
+  }
+  .widget-column-map {
+      width: 100%;
+      margin-right: 0;
+  }
+  .widget-column-title {
+      width: 100%;
+      margin-right: 0;
+  }
